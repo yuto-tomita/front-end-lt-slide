@@ -1,0 +1,22 @@
+/* @theme costom-theme */
+@import 'default';
+
+section.slide1 h1 {
+	text-align: center;
+}
+
+section.slide1 h2 {
+	text-align: center;
+}
+
+section.slide1 img {
+	margin-left: 350px;
+}
+
+section.slide2 p {
+	margin-left: 40px;
+}
+
+section.slide3 p {
+	margin-left: 40px;
+}
