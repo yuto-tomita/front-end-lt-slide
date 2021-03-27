@@ -36,7 +36,7 @@ babelを使うと、新しく出来上がった文法を使って書いたコー
 wikiより
 
 ---
-# 実際にbabelとwebpackを使ってコンパイルしてバンドルしてみる
+# 実際にバベってバンドルしてみる
 
 ---
 
@@ -52,6 +52,17 @@ webpack系のエラーが起きた際には、もしかしたらどこか`import
 
 ---
 
+---
+# 最後に
+- 今回のLTの資料
+	- https://github.com/yuto-tomita/front-end-lt-slide
+	   (最近はVSCodeでMarkdownでスライドが書けますgit管理できます便利)
+
+- サンプルで動かしたコードのリポジトリ
+	- https://github.com/yuto-tomita/example-webpack-babel
+
+ 
+---
 # ご清聴ありがとうございました！！
 
 
