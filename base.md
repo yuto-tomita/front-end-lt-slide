@@ -51,8 +51,6 @@ wikiより
 webpack系のエラーが起きた際には、もしかしたらどこか`import`していないファイルがあるのではないかと疑うことができるため、知らないに越したことはないのかなあというのが自分が出した結論です
 
 ---
-
----
 # 最後に
 - 今回のLTの資料
 	- https://github.com/yuto-tomita/front-end-lt-slide
